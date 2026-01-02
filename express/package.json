@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "this is my first express project",
+  "homepage": "https://github.com/neha070706/mern#readme",
+  "bugs": {
+    "url": "https://github.com/neha070706/mern/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neha070706/mern.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
